@@ -1,10 +1,10 @@
 //Audio functon is use to add audio
 let Gabroo=new Audio("https://raag.fm/files/mp3/128/Punjabi-Singles/2562503/Gabbroo%20-%20(Raag.Fm).mp3");
-let Oye=new Audio("https://pagalsong.in/uploads/systemuploads/mp3/Oye%20Hoye%20Hoye%20-%20Jassie%20Gill/Oye%20Hoye%20Hoye%20-%20Jassie%20Gill%20128%20Kbps.mp3")
+let Oye=new Audio("https://mp3fix.in/files/download/id/3086")
 let SurmaKala=new Audio("https://cdnsongs.com/music/data/Single_Track/201904/Surma_Kaala/128/Surma_Kaala_1.mp3")
 let Nakhere=new Audio("https://cdnsongs.com/music/data/Punjabi/201702/Jump_2_Bhangraaa/128/Nakhre.mp3");
 let GitarSikhda=new Audio("https://cdnsongs.com/music/data/Single_Track/201712/Guitar_Sikhda/128/Guitar_Sikhda_1.mp3");
-let NikleCurrent=new Audio("https://pagalsong.in/uploads/systemuploads/mp3/Nikle%20Currant%20%20-%20Jassie%20Gill,/Nikle%20Currant%20-%20Jassie%20Gill%20and%20Neha%20Kakkar%20128%20Kbps.mp3")
+let NikleCurrent=new Audio("https://djpunjab.com.se/upload_file/414/415/580/Nikle_Currant_Jassi_Gill_Neha_Kakkar.mp3")
 let laden=new Audio("https://cdnsongs.com/music/data/Punjabi/201409/Replay_Return_of_Melody/128/Laden.mp3");
 let dilTutda=new Audio("https://cdnsongs.com/music/data/Single_Track/201706/Dill_Tutda/128/Dill_Tutda_1.mp3");
 let dilTutdaplay=document.getElementById("dilTutda");
