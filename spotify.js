@@ -1,5 +1,5 @@
 //Audio functon is use to add audio
-let Gabroo=new Audio("https://dns4.pendusaab.com/download/128k-axyjk/Gabbroo.mp3");
+let Gabroo=new Audio("https://raag.fm/files/mp3/128/Punjabi-Singles/2562503/Gabbroo%20-%20(Raag.Fm).mp3");
 let Oye=new Audio("https://pagalsong.in/uploads/systemuploads/mp3/Oye%20Hoye%20Hoye%20-%20Jassie%20Gill/Oye%20Hoye%20Hoye%20-%20Jassie%20Gill%20128%20Kbps.mp3")
 let SurmaKala=new Audio("https://cdnsongs.com/music/data/Single_Track/201904/Surma_Kaala/128/Surma_Kaala_1.mp3")
 let Nakhere=new Audio("https://cdnsongs.com/music/data/Punjabi/201702/Jump_2_Bhangraaa/128/Nakhre.mp3");
